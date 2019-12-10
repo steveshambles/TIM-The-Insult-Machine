@@ -8,8 +8,6 @@ Updated December 2019.
 Written in Python 3.67 on Windows 7 and Linux Mint 19.1.
 by Steve Shambles.
 
-Introduction:
--------------
 TIM is childish, disgusting, not politically correct, 
 sexist, possibly racist, and very funny to those with
 a polluted mind.

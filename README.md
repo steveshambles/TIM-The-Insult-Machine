@@ -22,4 +22,15 @@ I know the code is bad in a lot of places, I'm still learning, slowly.
 Homepage:
 https://stevepython.wordpress.com/2019/06/05/tim-another-update-v1-70
 
+Requirements:
+pip3 install gtts
+pip3 install pillow
+pip3 install pyperclip
+
+Files required in same folder as TIM-1-80-WL.py:
+tim-logov3-360x195
+tim-help.txt
+clean_insults folder
+rude_insults folder
+
 

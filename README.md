@@ -4,17 +4,18 @@
 For windows and Linux with GUI. 
 
 Updated June 2020
-------------------------------
 
 Written in Python 3.72 on Windows 7 and Linux Mint 19.1.
 By Steve Shambles.
-------------------------------
-TIM is childish, disgusting, not politically correct,
-sexist, possibly racist, and very funny to those with
-a sick, twisted  and polluted mind.
+
+TIM is purile, stupid, childish, disgusting, politically incorrect 
+
+and very funny to those with a sick, twisted and polluted mind.
 
 TIM is the ultimate expression of my own self-loathing.
--------------------------------
+
+
+
 
 ![Alt text](https://stevepython.files.wordpress.com/2019/06/tim1810wl-screenshot-win.png "Optional title")
 

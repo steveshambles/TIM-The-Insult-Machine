@@ -17,7 +17,7 @@ TIM is the ultimate expression of my own self-loathing.
 
 
 
-![Alt text](https://stevepython.files.wordpress.com/2019/06/tim1810wl-screenshot-win.png "Optional title")
+![Alt text](https://stevepython.files.wordpress.com/2020/06/tim-v190-screen.png "Optional title")
 
 I know the code is bad in some places, I'm still learning, slowly.
 

@@ -1,0 +1,197 @@
+﻿The Insult Machine (TIM) V1.90-WL. 
+TIM is the ultimate expression of my own self-loathing.
+
+For Windows and Linux.
+Updated June 2020.
+
+Written in Python 3.72 on Windows 7 and Linux Mint 19.1.
+by Steve Shambles.
+
+This program, all its files and source code are completely Free.
+Though I retain the moral right to the copyright thereof.
+
+This program is free of adverts, malware etc and is the full version.
+
+If you use anything from TIM in your projects,
+a mention and a link to my blog would be greatly appreciated.
+
+------------------------------------------------------
+My Python blog: https://stevepython.wordpress.com
+------------------------------------------------------
+
+One time nag:
+-------------
+If you find this free software fun or something, feel free
+to make a small donation to the author to encourage more
+free programs like this.
+See drop-down menu.
+That's the only nag you'll get.
+
+
+Introduction:
+-------------
+TIM is childish, disgusting, not politically correct, 
+sexist, possibly racist, and very bloody funny to those with
+a polluted, damaged or sick mind.
+
+
+How TIM Works:
+--------------
+The Insult Machine,(TIM from now on), works by simply combining
+5 words drawn at random from 5 separate text files of carefully
+selected words.
+
+According to my calculations on the latest word lists,
+this will give us a potential of over 26.9 billion insult 
+combinations, and you could multiply that by the 11 different 
+accents on offer I suppose? That's enough insults to last 
+anyone a lifetime!
+
+Word Lists
+----------
+The word list files are separate, and are in standard plain text
+so that TIM users can join in the fun by adding their favourite
+words or removing words that they do not want.
+These lists can be found inside the "clean_insults" and 
+the "rude_insults" folders.
+
+Portable
+--------- 
+TIM can be run from anywhere, just copy the TIM folder from
+my Dropbox to your hard  drive, or even run it from a USB
+stick if you want, no install required.
+
+Click your plum
+------------------
+To start the torrent of abuse, click on the plum coloured
+“Insult” button.
+
+Not all of the insults make sense, but a majority do.
+Ironically though, some of the funniest insults 
+make no sense at all!
+
+The "Saved" button
+-------------------
+Every insult created is automatically appended to a text
+file called,“saved_insults.txt” 
+and saved in the current directory.
+  
+Click on the green “Saved” button to view it.
+
+You can delete the saved_insults.txt file if you want to, and
+TIM will just create a fresh one for you and start collecting
+insults in it again.
+
+Copy insult, (right click menu)
+------------------------------
+If you want to grab a certain insult directly from the listbox
+to mail to your Mum or whatever, then click on the insult to
+highlight it, and then right click the mouse, now select 
+“copy To Clipboard” from the pop up menu.
+
+The insult will be copied to your clipboard for pasting
+anywhere you like.
+
+Save As Fav (right click menu)
+------------------------------
+Also in the right click menu is, "Save as a Fav insult".  
+This saves individual insults to yet another text file called 
+"my_fav_insults.txt". Click the "Favs" button to view your
+saved favourites.
+
+Hear selected insult (right click menu)
+---------------------------------------
+Finally in the right click menu you have "Hear Selected Insult".
+This will do as expected. Note that if you have "save Mp3"
+ticked it will save the mp3, and if not ticked, it will not
+save it.
+
+Hear insult (check box, bottom left)
+------------------------------------
+By default, the generated insult just appears in the listbox.
+If you tick the “hear insult” check box (bottom left of the GUI)
+then TIM uses Google translate to convert the text to speech.
+
+Save insult (check box)
+-----------------------  
+If you want to retain a copy of the mp3, just tick the 
+“Save Mp3“ checkbox, bottom right of GUI.
+
+MP3s button (orange)
+--------------------
+To view any MP3’s you have previously saved, click on the orange
+“MP3s” button. Here you can double click on them to hear again
+or delete\copy them, the world is your sexy oyster here.
+
+Clear button (yellow)
+---------------------
+You can clear the list of insults from the listbox at any time
+with the yellow “Clear” button.
+
+Accents (Accents menu)
+----------------------
+There are 12 different accents to choose from.
+Choose one, and then give it a few seconds to 
+contact Google translate.
+Simple really, isn't it.
+
+Internet connection required
+-----------------------------
+Obviously an internet connection is required to access Google
+Translate and hear the insults.
+
+If it doesn't work, maybe your Firewall is blocking TIM,
+or possibly the free requests per month have been used up
+by TIM users. 
+
+The requests are counted from ALL users of TIM, so if TIM gets
+popular this service may not work all the time.
+However you can still generate insults withthe sound off.
+
+In the future Google may change how the service works or stop 
+it being free, ths might cause TIM to be speechless.
+Check for updates on my blog or on Github for updates
+if this happens. See menu for links to these.
+
+Clean insults (Insults menu)
+----------------------------
+For those of a more sensitive nature, V1.52 onward has a
+simple menu option to select either "clean insults" or
+"rude insults". By default TIM starts with clean insults.
+
+Rude insults (Insults menu)
+----------------------------
+Warning, selecting this option is dynamite and extremly 
+offensive to nearly everyone.
+
+Use these insults at your own discretion and don't
+come crying to me if your feelings, morals or 
+sensitivities get hurt, as you have been warned many times.
+Imagine the worst insuls ever and then multiply that by 100
+and you may get an idea of the naughtiness levels used here.
+
+-----------------------------
+That's all you need to know really, have a beer,
+start smoking again and have a laugh with 
+your mates and TIM.
+
+Note:
+The "humour" TIM uses is mainly British based, so some 
+non-Brit's may not 'get it" for some insults I suppose.
+------------------------------------
+Steve Shambles.
+Updates:
+Oct\Dec 2018, May\June 2019, Dec 2019, June 2020.
+
+you can mail me at: 
+steveshambles@protonmail.com
+But if it's to complain about being upset about the words used, 
+then don't expect a reply OK!
+
+My Python blog: https://stevepython.wordpress.com
+
+TIM was written just for fun, and for programming practice, 
+I'm still a Python programming noob.
+
+Steve Shambles
+June 21st 2020.

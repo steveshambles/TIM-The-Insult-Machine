@@ -22,7 +22,7 @@ TIM is the ultimate expression of my own self-loathing.
 I know the code is bad in some places, I'm still learning, slowly.
 
 Homepage:
-https://stevepython.wordpress.com
+https://stevepython.wordpress.com/2020/06/24/the-insult-machine-v1-90-wl
 
 Requirements:
 --------------
